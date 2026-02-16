@@ -33,4 +33,4 @@ You can add photos, videos, messages, and memories — all in one elegant, scrol
 2. Open the project folder and edit the content in the HTML and JSS file and add photos of your choice
 3. Deploy it using **Vercel**, **Netlify**, or **GitHub Pages**.
 ---
-Created with ❤️ by [@Harman](https://github.com/Harmann60)
+Created with ❤️ by kumargulshan
